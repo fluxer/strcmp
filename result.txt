@@ -1,0 +1,49 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/smil3y/strcmp
+[ 50%] Building CXX object CMakeFiles/strcmp_test.dir/strcmp_test.cpp.o
+[100%] Linking CXX executable strcmp_test
+[100%] Built target strcmp_test
+qqstrcmp(0)
+qqqstrcmp(0)
+qqstrcmp_fixed(0)
+strcmp(0)
+qqstrcmp(0)
+qqqstrcmp(0)
+qqstrcmp_fixed(0)
+strcmp(0)
+qqstrcmp(-1)
+qqqstrcmp(-51)
+qqstrcmp_fixed(-4)
+strcmp(-1)
+Removing CMakeCache.txt
+Removing CMakeFiles/
+Removing Makefile
+Removing cmake_install.cmake
+Removing strcmp_test
+-- The CXX compiler identification is GNU 8.3.0
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/smil3y/strcmp
+Scanning dependencies of target strcmp_test
+[ 50%] Building CXX object CMakeFiles/strcmp_test.dir/strcmp_test.cpp.o
+[100%] Linking CXX executable strcmp_test
+[100%] Built target strcmp_test
+qqstrcmp(0)
+qqqstrcmp(0)
+qqstrcmp_fixed(0)
+strcmp(0)
+qqstrcmp(0)
+qqqstrcmp(0)
+qqstrcmp_fixed(0)
+strcmp(0)
+qqstrcmp(-51)
+qqqstrcmp(-51)
+qqstrcmp_fixed(-4)
+strcmp(-1)
